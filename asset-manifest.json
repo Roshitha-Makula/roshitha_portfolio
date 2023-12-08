@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/roshitha_portfolio/static/css/main.d8581911.css",
+    "main.js": "/roshitha_portfolio/static/js/main.601f4398.js",
+    "static/media/2.jpeg": "/roshitha_portfolio/static/media/2.3be2d05f8e7215497552.jpeg",
+    "static/media/3.jpg": "/roshitha_portfolio/static/media/3.d436d529d4cc3aeb0b0a.jpg",
+    "static/media/3.jpeg": "/roshitha_portfolio/static/media/3.8efe00189c48088beab1.jpeg",
+    "static/media/4.jpeg": "/roshitha_portfolio/static/media/4.1a1d47a4736a84a677c7.jpeg",
+    "static/media/my.jpeg": "/roshitha_portfolio/static/media/my.9cbe1f4773059b241e06.jpeg",
+    "static/media/portfolio.svg": "/roshitha_portfolio/static/media/portfolio.bff8b39169bade93c32b.svg",
+    "static/media/contact.svg": "/roshitha_portfolio/static/media/contact.acdd342ba1db0f98c7cd.svg",
+    "static/media/about.svg": "/roshitha_portfolio/static/media/about.192e39ff229e6eb06083.svg",
+    "index.html": "/roshitha_portfolio/index.html",
+    "main.d8581911.css.map": "/roshitha_portfolio/static/css/main.d8581911.css.map",
+    "main.601f4398.js.map": "/roshitha_portfolio/static/js/main.601f4398.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d8581911.css",
+    "static/js/main.601f4398.js"
+  ]
+}
